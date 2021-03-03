@@ -7,14 +7,14 @@ Réaliser une plateforme nommée “N-Sport” qui sera sous la main de tous les
 Le besoin est divisé entre deux facteurs : Les visiteurs , les administrateurs. Dans le but d'être à jour aux actualités sportives, l'application doit servir comme une page d’actualité de tout type sportif.
 
   Les fonctions pour l’application web côté “visiteur” : 
-        * Visualiser les catégories.
-        * Consulter les articles.
-        * Afficher les articles par catégorie.
-        * Proposer des articles de même thème.
-        * Présenter la tendance des nouveautés.  
+  * Visualiser les catégories.
+  * Consulter les articles.
+  * Afficher les articles par catégorie.
+  * Proposer des articles de même thème.
+  * Présenter la tendance des nouveautés.  
         
   Les fonctions pour le site web côté “administration” : 
-        * Authentification.
-        * Gestion des articles. 
-        * Gestion des catégories.
+   * Authentification.
+   * Gestion des articles. 
+   * Gestion des catégories.
         
